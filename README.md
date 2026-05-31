@@ -19,15 +19,15 @@ This project builds a machine learning system to detect anomalies in industrial 
 - Supports multiple sensor types  
 - Highlights anomalies in real time  
 
+## Key Results
+- Built a machine learning pipeline to identify abnormal patterns in industrial sensor data.
+- Applied the Isolation Forest algorithm to detect anomalous observations.
+- Processed and visualized sensor readings including pressure, temperature, flow rate, and vibration.
+- Developed an interactive dashboard using Streamlit and Plotly for real-time anomaly monitoring.
 ---
 
 ## 📸 Dashboard Preview
 ![Dashboard](screenshots/dashboard.png) <img width="1440" height="821" alt="dashboard" src="https://github.com/user-attachments/assets/f1daca50-40fe-40d9-9cd9-80f05358828c" />
-
-
-![Graph](screenshots/graph.png)
-
-![Real Data Test](screenshots/real_data_test.png)
 
 
 ---
